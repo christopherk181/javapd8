@@ -64,7 +64,8 @@ System.out.println("avg is "+avg);
     Declare and assign values to any new variables
 
 */
- 
+ y=(2*x*(x+1)*(-x/2) ) / A;
+ System.out.println("y is "y)
 
 
 
@@ -77,7 +78,11 @@ System.out.println("avg is "+avg);
 
     Declare and assign values to any new variables
 */
- 
+ double area =0;
+ double b=4.5;
+ double h=5.4;
+ area = 1/2.0*b*h;
+ System.out.println("area is "+ area);
 
 
 
